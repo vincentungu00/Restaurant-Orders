@@ -33,3 +33,7 @@ Since there was no revenue feature in the dataset, I created this for the analys
 The final process was to create a star schema. In a star schema, I created a fact table and three dimension tables. The fact table consisted of transactional data, or I would say contain numerical records, including the id(s) to join with the dimension tables. The three dimension tables covered time dimension table, date dimension table, and menu dimension table, where each dimension table contained features that was unique to the dimension table's id (or key). 
 
 
+## Data Analysis
+For the data analysis section, I proposed exploring cross-selling opportunities. 
+
+I started the analysis from exploring the cross-selling penetration rate. Not only has high number of penetration rate, but also big portion of the revenue was generated through cross-selling orders. After identifying which dishes were mostly ordered, I could propose the dishes combinations as the cross-selling bundlings. I also simulated the potential revenue uplift, given that some portion of customers purchased the bundlings. For more details, please kindly check the Google Slide link stated above.
