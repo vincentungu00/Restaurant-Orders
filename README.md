@@ -1,6 +1,6 @@
 # Restaurant-Orders
 
-This repository consists of data analytics exploration for Restaurant Orders dataset downloaded from Maven Analytics. Link to the Google Slide: https://docs.google.com/presentation/d/1D5dHFdLmDFuCpNfCSbCJknIiJ1Z8SyvTJmszVRSedg4/edit#slide=id.p
+This repository consists of data analytics exploration for Restaurant Orders dataset downloaded from Maven Analytics. Link to the Google Slide: [https://docs.google.com/presentation/d/1D5dHFdLmDFuCpNfCSbCJknIiJ1Z8SyvTJmszVRSedg4/edit#slide=id.p](https://docs.google.com/presentation/d/1D5dHFdLmDFuCpNfCSbCJknIiJ1Z8SyvTJmszVRSedg4/edit?usp=sharing)
 
 ## Data Engineering
 From the source, I was given two tables: 
